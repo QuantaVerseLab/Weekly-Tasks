@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Weekly_Tasks",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Weekly_Tasks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Weekly_Tasks-Debug-7178eff370bf1b004a12.json",
+					"name" : "Weekly_Tasks",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/ext_drives/Developer/Development/George/QuantaVerseLab/Weekly-Tasks/Week1_C++/Tasks/cmake-build-google-test",
+		"source" : "/mnt/ext_drives/Developer/Development/George/QuantaVerseLab/Weekly-Tasks/Week1_C++/Tasks"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
